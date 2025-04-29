@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /home/szy/code/nginx_memory_pool -B /home/szy/code/nginx_memory_pool/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/szy/code/nginx_memory_pool/cmake-build-debug

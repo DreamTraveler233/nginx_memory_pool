@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/nginx_memory_pool.dir/main.cpp.o -o nginx_memory_pool 
